@@ -22,3 +22,8 @@ Infrastructure project using Windows Server and Linux.
 - Network services setup
 - Remote administration
 - Web server deployment
+
+## Enterprise-Network-Configuration Download
+
+Download the files here:
+https://mega.nz/file/OD4zmJjb#VBLKxHbtu5R_Xkv20H0YN4waXK_iVUQxtOwVc7FdYxA
